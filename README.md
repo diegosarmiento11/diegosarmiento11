@@ -7,17 +7,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosarmiento11" alt="diegosarmiento11" /></a> </p>
 
 
-- 🔭 I’m currently working on [PROA - E-SIGNATURES](https://www.enproa.co/)
+- 🔭 I’m currently working on [Fanduel](https://www.fanduel.com/)
 
 - 🌱 I’m currently learning **MongoDB and NodeJS**
 
-- 👨‍💻 All of my projects are available at [diegosarmiento.co](diegosarmiento.co)
+- 👨‍💻 Some of my projects are available at [diegosarmiento.co](diegosarmiento.co)
 
 - 💬 Ask me about **Reacjs, Redux and MySql**
 
 - 📫 How to reach me **me@diegosarmiento.co**
 
-- 📄 Know about my experiences [diegosarmiento.co](diegosarmiento.co)
+- 📄 Know about my experiences [diegosarmientoq1245.co](diegosarmientoq1245.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
