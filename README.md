@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **me@diegosarmiento.co**
 
-- 📄 Know about my experiences [diegosarmientoq1245.co](diegosarmientoq1245.co)
+- 📄 Know about my experiences [diegosarmientoq1245.com](diegosarmientoq1245.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
