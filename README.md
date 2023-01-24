@@ -15,9 +15,8 @@
 
 - 💬 Ask me about **Reacjs, Redux and MySql**
 
-- 📫 How to reach me **me@diegosarmiento.co**
+- 📫 How to reach me **diegosarmientoq1245@gmail.com**
 
-- 📄 Know about my experiences [diegosarmientoq1245.com](diegosarmientoq1245.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
