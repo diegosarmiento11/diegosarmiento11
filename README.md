@@ -7,17 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegosarmiento11" alt="diegosarmiento11" /></a> </p>
 
 
-- 🔭 I’m currently working on [Fanduel](https://www.fanduel.com/)
-
-- 🌱 I’m currently learning **MongoDB and NodeJS**
-
-- 👨‍💻 Some of my projects are available at [diegosarmiento.co](diegosarmiento.co)
-
-- 💬 Ask me about **Reacjs, Redux and MySql**
-
-- 📫 How to reach me **diegosarmientoq1245@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diegoalejandrosarmiento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="diegoalejandrosarmiento" height="30" width="40" /></a>
